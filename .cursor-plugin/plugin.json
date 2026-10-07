@@ -1,0 +1,21 @@
+{
+  "name": "relaydesk",
+  "version": "1.0.0",
+  "description": "Connect Cursor agents to computers, servers, and VMs you explicitly pair through RelayDesk.",
+  "author": {
+    "name": "RelayDesk",
+    "email": "relaydeskmcp@gmail.com"
+  },
+  "homepage": "https://getrelaydesk.space",
+  "repository": "https://github.com/Lakshay-24/relaydesk-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "remote-computing",
+    "computer-automation",
+    "devops",
+    "troubleshooting"
+  ],
+  "logo": "assets/relaydesk-mark.svg",
+  "mcpServers": "mcp.json"
+}

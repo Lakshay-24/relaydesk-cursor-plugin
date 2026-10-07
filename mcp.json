@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "relaydesk": {
+      "url": "https://relay-desk-mjq6.vercel.app/mcp"
+    }
+  }
+}
