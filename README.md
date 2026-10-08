@@ -15,6 +15,8 @@ On first connection, RelayDesk uses OAuth in the browser. Once connected, Cursor
 3. Sign in to RelayDesk and authorize the connection.
 4. Pair the computer, server, or VM you want your AI assistant to use.
 
+Step-by-step Cursor guide: https://getrelaydesk.space/cursor-remote-mcp
+
 Learn more: https://getrelaydesk.space/how-it-works
 
 The open-source files in this repository are only the Cursor marketplace integration package. The RelayDesk hosted service and product source are distributed separately.
