@@ -1,6 +1,6 @@
 {
   "name": "relaydesk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Connect Cursor agents to computers, servers, and VMs you explicitly pair through RelayDesk.",
   "author": {
     "name": "RelayDesk",

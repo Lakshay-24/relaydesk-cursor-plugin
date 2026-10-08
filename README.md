@@ -4,7 +4,7 @@ RelayDesk connects Cursor agents to Windows, macOS, and Linux computers, servers
 
 The plugin uses RelayDesk's hosted Streamable HTTP MCP endpoint:
 
-`https://relay-desk-mjq6.vercel.app/mcp`
+`https://getrelaydesk.space/mcp`
 
 On first connection, RelayDesk uses OAuth in the browser. Once connected, Cursor can use the permitted RelayDesk tools to read files, run commands, inspect logs, troubleshoot systems, and return real machine output through the MCP connection.
 
